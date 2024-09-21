@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"appplan","Source":"./modules/appserviceplan.tf","Dir":"modules/appserviceplan.tf"},{"Key":"vm","Source":"./modules/vm.tf","Dir":"modules/vm.tf"},{"Key":"vmss","Source":"./modules/vmss.tf","Dir":"modules/vmss.tf"},{"Key":"webapp","Source":"./modules/webapp.tf","Dir":"modules/webapp.tf"}]}
